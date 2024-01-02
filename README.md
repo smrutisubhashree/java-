@@ -1,2 +1,2 @@
 # java-
-Evweything about web development
+Everything about web development
